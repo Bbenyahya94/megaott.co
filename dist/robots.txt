@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://megaott.co/sitemap.xml
+

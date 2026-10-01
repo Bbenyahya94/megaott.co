@@ -1,0 +1,1 @@
+.whatsapp:before,.telegram:before{content:"";width:17px;height:17px;background:center/contain no-repeat;display:inline-block}.whatsapp:before{background-image:url('/whatsapp.svg')}.telegram:before{background-image:url('/telegram.svg')}
